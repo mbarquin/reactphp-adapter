@@ -1,0 +1,8 @@
+/nbproject/private/
+/src/vendor/
+/nbproject/
+**/nbproject/**
+/src/vendor/*
+/build/phpUnit/**
+!.gitignore
+/logs/**
